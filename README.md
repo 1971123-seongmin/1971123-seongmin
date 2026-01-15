@@ -1,35 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ee72ba&height=240&text=Seongmin%27s%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+
+### 📚 Tech Stacks
+
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
+
 </div>
 
-## 🛠️ Tech Stacks
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 🌈 Follow me
 
-## 🛠️ Tools
-
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-## 🤝 Connect with Me
-
-[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dssn1999/posts)
+[![Velog](https://img.shields.io/badge/dssn1999-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dssn1999/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arcn1345@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EA%B9%80-8320bb333/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s_minj_1111/)
-  
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div style="text-align: left;">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dssn1999&tag=MVI&color=dark)](https://velog.io/@dssn1999)
+
+</div>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1971123-seongmin&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1971123-seongmin&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </a>
+  </div>
+  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1971123-seongmin&layout=compact&theme=material-palenight" alt="Top Langs" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1971123-seongmin&layout=compact&theme=vue" alt="Top Langs" />
     </a>
   </div>
 </div>
+
 </div>
