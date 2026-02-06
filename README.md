@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EA%B9%80-8320bb333/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s_minj_1111/)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dssn1999&tag=MVI&color=dark)](https://velog.io/@dssn1999)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dssn1999&color=dark)](https://velog.io/@dssn1999)
 
 </div>
 
